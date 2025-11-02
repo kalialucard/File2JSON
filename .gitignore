@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+
+# Virtual environments
+venv/
+.env/
+
+# Output and input folders
+test_output/
+test_input/
+
+# Editor / OS files
+.DS_Store
+*.swp

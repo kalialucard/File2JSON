@@ -1,0 +1,10 @@
+{
+  "application": "File Converter",
+  "version": "1.0.0",
+  "features": ["csv", "json", "xml", "evtx", "pcap"],
+  "metadata": {
+    "author": "Test",
+    "license": "MIT"
+  }
+}
+

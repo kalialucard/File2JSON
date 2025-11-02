@@ -1,0 +1,17 @@
+# Core dependencies
+python-magic>=0.4.27; sys_platform != 'win32'
+python-magic-bin>=0.4.14; sys_platform == 'win32'
+filetype>=1.2.0
+
+# Format-specific converters (optional - install as needed)
+python-evtx>=0.7.4; python_version >= '3.7'
+pyshark>=0.6
+scapy>=2.5.0
+pdfminer.six>=20221105
+PyPDF2>=3.0.0
+python-docx>=1.0.0
+
+# Testing
+pytest>=7.4.0
+pytest-cov>=4.1.0
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <item id="1" status="active">
+    <name>Item One</name>
+    <value>100</value>
+  </item>
+  <item id="2" status="inactive">
+    <name>Item Two</name>
+    <value>200</value>
+  </item>
+</root>
+
